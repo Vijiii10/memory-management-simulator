@@ -1,0 +1,6 @@
+> Buddy allocator initialized
+> Buddy allocated at address 0 size 32
+> Block size 32: 32 
+Block size 64: 64 
+Block size 128: 
+> 

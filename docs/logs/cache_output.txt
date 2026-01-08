@@ -1,0 +1,15 @@
+> Cache system initialized
+> L1 MISS → L2 MISS → Memory Access
+> L1 HIT
+> L1 MISS → L2 MISS → Memory Access
+> L1 MISS → L2 MISS → Memory Access
+> L1 MISS → L2 MISS → Memory Access
+> L1 Cache Stats:
+Hits: 1
+Misses: 4
+Hit Rate: 20%
+L2 Cache Stats:
+Hits: 0
+Misses: 4
+Hit Rate: 0%
+> 

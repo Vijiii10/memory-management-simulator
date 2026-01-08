@@ -1,0 +1,4 @@
+init_buddy 128 16
+malloc 30
+dump_buddy
+exit

@@ -1,0 +1,10 @@
+> Virtual memory initialized
+> Physical address: 0
+> Physical address: 64
+> Physical address: 128
+> Physical address: 0
+> Physical address: 192
+> Page Hits: 1
+Page Faults: 4
+Hit Rate: 20%
+> 

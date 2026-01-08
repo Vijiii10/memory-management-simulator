@@ -1,0 +1,8 @@
+init_cache 64 128 16 2
+access 0
+access 0
+access 64
+access 128
+access 0
+cache_stats
+exit

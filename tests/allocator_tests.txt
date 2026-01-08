@@ -1,0 +1,8 @@
+init 256
+set first
+malloc 64
+malloc 32
+free 1
+dump
+stats
+exit

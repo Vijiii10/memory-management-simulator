@@ -1,0 +1,12 @@
+# Compiled binary
+memsim
+
+# Object files
+*.o
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
